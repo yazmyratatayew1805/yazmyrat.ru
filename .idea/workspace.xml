@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8f4333c-2546-470c-beff-1840127bd30e" name="Default Changelist" comment="" />
+    <list default="true" id="f8f4333c-2546-470c-beff-1840127bd30e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yazmyrat.ru.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about-us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner/common-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner/home-banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner/home-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/body-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/client-info-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/subscribe-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/testimonials/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gmaps.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.ajaxchimp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mail-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/stellar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/flipclock/timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/isotope/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/isotope/isotope-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/css/nice-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/assets/animated.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +93,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dragon.loc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,6 +109,11 @@
       <workItem from="1711113672350" duration="1004000" />
       <workItem from="1711899091362" duration="557000" />
       <workItem from="1711943027875" duration="835000" />
+      <workItem from="1712746667064" duration="225000" />
+      <workItem from="1712802372314" duration="30000" />
+      <workItem from="1712910517849" duration="1415000" />
+      <workItem from="1713594646097" duration="1296000" />
+      <workItem from="1713678783583" duration="1903000" />
     </task>
     <servers />
   </component>
@@ -45,9 +121,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1711943867000">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1712802400331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1711943867000" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1712802400331" />
   </component>
 </project>
